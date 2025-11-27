@@ -1,8 +1,1 @@
-migzdnd is the name, or you can call me migz or miggyboi
-21
-BSIT | Mapua University
-
-<!---
-migzdnd/migzdnd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+M | 21 | BSIT | Mapua University
